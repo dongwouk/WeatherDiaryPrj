@@ -46,6 +46,7 @@
 
 
 ## 🖼 **ERD**
+![image](https://github.com/user-attachments/assets/774b94f1-c35e-4e1a-b2fa-cad835264d62)
 
 
 
